@@ -1,4 +1,4 @@
-# 🔍 Task: Text Similarity (45 Marks) ✨
+# 🔍 Task: Text Similarity ✨
 
 ## 📝 Task Definition
 Given two sentences, calculate the similarity between them. The similarity is given as a score ranging from 0 to 5.
